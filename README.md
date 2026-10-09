@@ -44,7 +44,3 @@ If you hit `Error: Invalid value: File does not exist: app.py`, you ran `streaml
 
 Headline numbers live in `Hate speech detection project/3_Evaluation_and_Stats/summary_metrics.csv` (the app also accepts `outputs_final/summary/summary_metrics.csv` after a full Colab train — first hit wins).
 
-## Next steps
-
-- Full docs, results table, rebuild/training/verification instructions: [`Hate speech detection project/README.md`](Hate%20speech%20detection%20project/README.md)
-- Before submission: `1947/1947 same order True`, 5 folds, no fold ≈ 0.19, `grep -c TODO` → 0 in `paper.tex`, kappa in `DATA_CARD.md`, no keys/`.env` committed.
