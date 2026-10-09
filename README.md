@@ -134,4 +134,5 @@ Expect: `common_rows_after_guard 1947`, both CSVs in identical `comment_id` orde
 - With 5 paired folds the smallest possible two-sided Wilcoxon p is 0.0625 — report this limitation and the 5/5 per-fold consistency; do not misread a non-significant p as "no effect".
 - `app.py` never leaves this folder except for the embedded fallback constants, so the folder is portable.
 #   - H a t e - S p e e c h - D e t e c t i o n -  
+ #   - H a t e - S p e e c h - D e t e c t i o n -  
  
